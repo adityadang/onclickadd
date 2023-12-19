@@ -1,0 +1,30 @@
+/* body{
+    background-color: black;
+} */
+
+div{
+
+    margin: 50px 550px;
+    display: flex;
+align-items: center;
+    justify-content: center;
+    height: 25rem;
+    width: 25rem;
+    box-shadow: 3px 3px 5px 5px black;
+    background-color:cornflowerblue;
+}
+
+div button{
+  height: 45px;
+  width: 85px;
+  background-color: black;
+  color: aliceblue;
+  font-size: 2.5rem;
+
+}
+#result{
+    font-size: 5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding: 0px 55px;
+    color: aliceblue;
+}
